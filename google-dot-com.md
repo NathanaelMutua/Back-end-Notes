@@ -145,8 +145,12 @@ Now we're at the finalé.
 
 So, the first get request returns HTML, which structures the page, within it, it is linked to other JS, or CSS documents. Usually to add more properties to the web page.
 
+Finally as the browser 'parses' and 'renders' the HTML, it is making other requests for JS, CSS, images and data resources.
+
+And simply, yet in a complex way, that's how we arrive at our web page being displayed after searching ```google.com```.
+
 ## REFERENCES
 
 1. [Superuser](https://superuser.com/questions/31468/what-exactly-happens-when-you-browse-a-website-in-your-browser)
 2. [Geek for Geeks Article](https://www.geeksforgeeks.org/what-happens-when-we-type-a-url/)
-2. [AWS Article](https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/)
+3. [AWS Article](https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/)
